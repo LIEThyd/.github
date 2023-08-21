@@ -1,1 +1,1 @@
-# .github
+# LORDS Institute of Engineering & Technologies
